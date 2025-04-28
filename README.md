@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jess03000
 - 👀 I’m interested in creating ios apps
-- 🌱 I’m currently learning SWIFTUI
-- 📫 How to reach me: ig: jessxleahh
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: linkedin
 - ⚡ MPH in Pharmacoepidemiology and lover of cats
 
 <!---
